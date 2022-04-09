@@ -2,4 +2,4 @@
 
 This repository is a wiki only repository, providing information and help for Vue 3 development:
 
-[Wiki](./wiki)
+[Vue 3 Wiki](../../wiki)
