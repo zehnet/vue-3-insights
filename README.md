@@ -1,2 +1,5 @@
-# vue-3-insights
-Vue 3 development insights, help and hints
+# Vue 3 Insights
+
+This repository is a wiki only repository, providing information and help for Vue 3 development:
+
+[Wiki](./wiki)
